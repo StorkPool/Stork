@@ -2,24 +2,18 @@
    "info": {
         "url_png_icon_64x64": "https://git.io/JOJxC",
         "url_png_logo": "https://git.io/JOJx2",
-        "location": "Pfäffikon, Switzerland,
-        "social": {
+        "location": "Pfäffikon, Switzerland"
+   "social": {
             "twitter_handle": "Stork_pool",
-            "telegram_handle": "@Stork_pool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
+            "telegram_handle": "@Stork_pool"
         },
-        "about": {
+   "about": {
             "us": "Low Fees, High Quality, Doing Good. It is our mission to combine low fees and high quality staking experience with supporting a good cause. Money that normally flows into the pockets of the stake pool operator will be donated to our good cause.",
             "server": "3 Nodes with each 4 AMD EPYC CPU Cores, 8 GB RAM, 200 Mbit/s Ports and 200 GB fast SSD",
             "company": "Naturzentrum Pfäffikersee"
         },
     "my-pool-ids": {
-        "0": "17fa4d6590f413e5b699ae8c859c32ef427e95b81f167e1a2dc3c2f1",
-        "1": ""
+        "0": "17fa4d6590f413e5b699ae8c859c32ef427e95b81f167e1a2dc3c2f1"
         }
     }
 }
