@@ -9,7 +9,7 @@
         },
         "about": {
             "me": "Low Fees, High Quality, Doing Good. It is our mission to combine low fees and high quality staking experience with supporting a good cause. Money that normally flows into the pockets of the stake pool operator will be donated to our good cause.",
-            "server": "3 Nodes with each 4 AMD EPYC CPU Cores, 8 GB RAM, 200 Mbit/s Ports and 200 GB fast SSD",
+            "server": "3 Nodes with each 6 AMD EPYC CPU Cores, 16 GB RAM, 400 Mbit/s Ports and 400 GB fast SSD",
             "company": "Naturzentrum Pfäffikersee"
         },
         "my-pool-ids": {
